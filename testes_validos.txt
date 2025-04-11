@@ -1,0 +1,21 @@
+10
+
+12345abcde
+
+(\neg true)
+
+(\neg (\neg 0))
+
+(\vee 1a false)
+
+(\rightarrow 99z 1)
+
+(\leftrightarrow true false)
+
+(\wedge 1 (\vee 2a 3b))
+
+(\rightarrow (\wedge 0 false) 9)
+
+(\leftrightarrow (\neg 1) (\neg 2xyz))
+
+(\vee (\neg (\wedge 5 true)) (\rightarrow 88 (\neg false)))

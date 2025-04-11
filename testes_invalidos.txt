@@ -1,0 +1,21 @@
+10
+
+(\rightarrow (\neg 1) (\wedge true false)
+
+(\wedge)
+
+(\neg)
+
+(\vee 1? true)
+
+(\neg 1) \vee (\neg 2)
+
+((\leftrightarrow 1 2))
+
+(\vee 1 (\neg))
+
+(\equals true false)
+
+(1 2)
+
+(\rightarrow 0 (\wedge 1))

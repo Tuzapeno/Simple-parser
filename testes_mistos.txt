@@ -1,0 +1,31 @@
+15
+
+5a
+
+false
+
+(\neg 1)
+
+(\wedge true 0)
+
+(\neg (\vee 1a 2b))
+
+(\rightarrow (\neg 99) (\leftrightarrow 1 false))
+
+(\wedge true false
+
+(\vee 10xyz)
+
+(\neg p1)
+
+\rightarrow true false)
+
+\neg (\wedge 1 2)
+
+(\neg 3))
+
+(\implies 1 2)
+
+(\leftrightarrow (\neg 1) )
+
+(\wedge (\neg \vee) true)
